@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Logs and temp files
+logs/
+temp/
+*.log
+
+# Environment variables
+.env
+
+# Telethon/SQLAlchemy/Session files
+*.session
+*.session-journal
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+*.swp
